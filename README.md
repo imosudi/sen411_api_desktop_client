@@ -28,3 +28,13 @@ tkinter is included in the default Python installation on macOS. If it's missing
 Install Python using Homebrew:
 ```bash
 brew install python
+```
+## Install requests
+```bash
+pip install requests
+```
+
+## Run the Application: Save the code to a file
+```bash
+ python graphql_client.py
+```
