@@ -36,5 +36,5 @@ pip install requests
 
 ## Run the Application: Save the code to a file
 ```bash
- python graphql_client.py
+ python main.py
 ```
